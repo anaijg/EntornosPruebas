@@ -10,6 +10,9 @@ import java.time.LocalDate;
  * AÑADIR COMPROBACIÓN PARA EL TELÉFONO (9 CIFRAS) -> si no se cumple esto, teléfono = "Desconocido"
  * AÑADIR UN CONSTRUCTOR CON DOS PARÁMETROS PARA EL CASO EN QUE EL CLIENTE NO TENGA TELÉFONO.
  * Si EL CLIENTE NO TIENE TELÉFONO, EL ATRIBUTO CORRESPONDIENTE GUARDARÁ “Desconocido”.
+ * @author Ana
+ * @version 1.0
+ *
  */
 
 public class Cliente extends Persona{
